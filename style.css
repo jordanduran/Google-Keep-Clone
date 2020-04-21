@@ -383,10 +383,14 @@ input:focus {
   background: #d7aefb;
 }
 
-#orange {
-  background: #fbbc04;
+#golden-fizz {
+  background: #faeb46;
 }
 
 #teal {
   background: #a7ffeb;
+}
+
+#magic-mint {
+  background: #97ebb2;
 }
